@@ -1,2 +1,7 @@
 # js-game-base
-Works as the base for creating games on javascript with the capabilities of other engines
+Works as the base for creating games with the capabilities of other engines:
+To choose:
+
+- Unity
+- Godot
+- Javascript 
