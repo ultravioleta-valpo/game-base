@@ -1,0 +1,5 @@
+Top down shooter
+- cria estrellas como torretas (evolución estelar metida en el concepto de subir de nivel)
+	se tiene un arbol de elecciones y alli descripciones de cada etapa
+
+. al ser un juego tipo tower defense, se puede omitir la IA de enemigos (bajando varias horas y dias el tiempo de produccion)

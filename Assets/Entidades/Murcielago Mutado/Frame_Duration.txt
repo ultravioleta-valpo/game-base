@@ -1,0 +1,1 @@
+por default 80 miliseconds.
