@@ -1,0 +1,7 @@
+Fab:
+
+# Como mezclar torretas y que el jguador se mueva
+- Existe un inventario, al recolectar podemos observar como se forman las estrellas dentro del motor de la nave o la pistla del jugador
+	- esto permite que podamos mejorar nuestra capacidad de disparo o tengamos la opcion de dejar una torreta
+
+el jugador tendra un disparo mas o menos lento o debil, de manera que preferira plantar torretas mas veces
